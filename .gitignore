@@ -1,0 +1,7 @@
+data/scrna_data.csv
+models/classifier.pkl
+models/scaler.pkl
+models/pca.pkl
+__pycache__/
+*.pyc
+.DS_Store
